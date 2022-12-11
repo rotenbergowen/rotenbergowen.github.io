@@ -17,8 +17,9 @@ My GitHub page is http://github.com/rotenbergowen.
     would have a direct effect on what was outputted by the program.
     This was a big step forward and it layed the groundwork for the rest
     of my labs.                                                  
-    ![This is a screenshot of my Mad Lib](images/screenshot.png)               
-    Above is a screenshot of my gradient that I personally made in this lab.
+    ![This is a screenshot of my Mad Lib](images/screenshot.png)   
+    Above is the output of my madlib after entering the parameters as command
+    line arguments.            
 * Lab 8
 
     In the first part of lab 8, my task was to search a text file,
@@ -42,5 +43,4 @@ My GitHub page is http://github.com/rotenbergowen.
     lab. I finally was able to take my coding skills and create a piece of art
     and my new understanding of doing this will definitely help in the future.
     ![This is the gradient from lab 10](images/my_image.png)                   
-    Above is the output of my madlib after entering the parameters as command
-    line arguments.
+    Above is a screenshot of my gradient that I personally made in this lab.
