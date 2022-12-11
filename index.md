@@ -47,7 +47,7 @@ My GitHub page is http://github.com/rotenbergowen.
     ![This is the gradient from lab 10](images/my_image.png)                   
     Above is a screenshot of my gradient that I personally made in this lab.
 
-* Lab 10
+* Lab 12
 
     The last lab, lab 12, built more upon using Graphics Magick to generate
     images. Part 1 directly built off of making a simple gradient like in lab
