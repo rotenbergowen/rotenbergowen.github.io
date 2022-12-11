@@ -17,7 +17,7 @@ My GitHub page is http://github.com/rotenbergowen.
     would have a direct effect on what was outputted by the program.
     This was a big step forward and it layed the groundwork for the rest
     of my labs.                                                  
-    ![This is a screenshot of my Mad Lib](images/screenshot.png)
+    ![This is a screenshot of my Mad Lib](images/screenshot.png)               
     Above is a screenshot of my gradient that I personally made in this lab.
 * Lab 8
 
@@ -41,6 +41,6 @@ My GitHub page is http://github.com/rotenbergowen.
     picture that I made, rather than some boring text like in the previous
     lab. I finally was able to take my coding skills and create a piece of art
     and my new understanding of doing this will definitely help in the future.
-    ![This is the gradient from lab 10](images/my_image.png)
+    ![This is the gradient from lab 10](images/my_image.png)                   
     Above is the output of my madlib after entering the parameters as command
     line arguments.
