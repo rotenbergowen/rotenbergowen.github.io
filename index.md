@@ -16,7 +16,7 @@ My GitHub page is http://github.com/rotenbergowen.
     This was the first time I made an interactive program where my inputs
     would have a direct effect on what was outputted by the program.
     This was a big step forward and it layed the groundwork for the rest
-    of my labs.
+    of my labs.                                                  
     ![This is a screenshot of my Mad Lib](images/screenshot.png)
 
 * Lab 8
